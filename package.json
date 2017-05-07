@@ -1,0 +1,27 @@
+{
+  "name": "algo-quick-find",
+  "version": "1.0.0",
+  "description": "Dynamic connectivity with quick find algorithm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/algo-quick-find.git"
+  },
+  "keywords": [
+    "algorithm",
+    "graph",
+    "quick-find"
+  ],
+  "author": "Olvier <olivier.wietrich@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/algo-quick-find/issues"
+  },
+  "homepage": "https://github.com/bredele/algo-quick-find#readme"
+}
