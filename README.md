@@ -1,2 +1,3 @@
 # algo-quick-find
-:bar_chart:  Dynamic connectivity with quick find algorithm
+
+Quick find algorithm or so called eager algorithm to resolve dynamic connectivity problems.
