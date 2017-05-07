@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/bredele/algo-quick-find#readme",
   "devDependencies": {
+    "array-ids": "^1.0.0",
     "tape": "^4.6.3"
   }
 }
