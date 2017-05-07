@@ -1,7 +1,12 @@
 
 
 /**
+ * Union algorithm following quick-find method.
  *
+ * @param {Array} ids
+ * @param {Number} p
+ * @param {Number} q
+ * @api public
  */
 
 module.exports = function(ids, p, q) {
